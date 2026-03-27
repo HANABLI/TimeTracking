@@ -16,6 +16,7 @@
 #include <mutex>
 #include <thread>
 #include <map>
+#include <cmath>
 
 namespace
 {
